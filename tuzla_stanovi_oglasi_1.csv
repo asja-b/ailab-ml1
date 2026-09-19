@@ -1,0 +1,669 @@
+oglas_id,naselje,kvadratura_m2,sprat,broj_soba,godina_izgradnje,stanje,balkon,parking,cijena_km,datum_oglasa
+72452589,Dragodol,29.0,4.0,1.0,,Namješten,da,ne,119500.0,15.08.2026
+74346041,Irac,30.0,4.0,1.0,,Useljivo,da,da,144200.0,02.08.2026
+73606572,Bukinje,77.0,6.0,3.0,1984.0,Namješten,da,ne,253800.0,14.06.2026
+78507134, Irac ,90.0,1.0,4.0,1983.0,Useljivo,da,da,340300.0,13.06.2026
+70023087,Kreka,75.0,7.0,3.0,2013.0,Useljivo,ne,ne,339500.0,04.05.2026
+70465611,Bukinje,56.0,Prizemlje,2.0,,Useljivo,da,ne,147600.0,31.03.2026
+77531911,Slavinovići,63.0,3.0,2.5,1994.0,Nov,da,da,395700.0,10.06.2026
+77806102,Brčanska Malta,54.0,3.0,2.0,2010 do 2019,Namješten,da,ne,259700.0,27.05.2026
+78721042,Stupine,58.0,,2.0,,Potrebna renovacija,da,da,238100.0,25.04.2026
+78576505,Kreka,56.0,10.0,2.0,,Nenamješten,da,da,209600.0,15.05.2026
+75106570,Centar,76.0,0.0,4.0,1995.0,Potrebna renovacija,ne,ne,321500.0,28.03.2026
+78789289,brčanska malta,85.0,7.0,3.0,2015.0,Useljivo,da,da,348200.0,15.09.2026
+76818958,Dragodol,62.0,2.0,3.0,,Renoviran,da,da,337300.0,12.06.2026
+70986777,Kreka,34.19,7,1.5,2021,Useljivo,da,ne,170950.0,06.09.2026
+74457326,Irac,87.0,,3.0,2016.0,Potrebna renovacija,ne,da,"243,400",10.04.2026
+78019067,Dragodol,48.0,7.0,2.0,,Potrebna renovacija,da,ne,159600.0,29.07.2026
+70743154,Brčanska Malta,44.0,9.0,1.0,,Potrebna renovacija,da,da,130900.0,13.06.2026
+77297806,Kreka,52m2,5.0,4.0,1990.0,Renoviran,da,ne,223300.0,13.05.2026
+77744177,Zlokovac,53.0,6.0,1.5,2015.0,Renoviran,da,ne,"293,200",08.07.2026
+75315046,Brčanska Malta,54m2,5.0,2.0,,Namješten,da,ne,"295,700",01.04.2026
+77439167,Mejdan,81.0,1.0,4.0,1987.0,Useljivo,da,ne,493700.0,18.08.2026
+70320435,Centar,78.0,5.0,3.0,1973.0,Nov,da,ne,506900.0,02.07.2026
+72979415,Solina,51.0,10.0,2.0,,Potrebna renovacija,ne,ne,153400.0,05.05.2026
+74792225,Brčanska Malta,65.0,6.0,2.0,1994.0,Renoviran,ne,ne,244.300 KM,15.04.2026
+79775058, Gornja Tuzla ,71.0,4.0,3.0,2005.0,Nov,da,ne,238900.0,23.06.2026
+79500000,,,,,,,,,,01.09.2026
+74083553,Brčanska Malta,66m2,3.0,2.0,1990.0,Renoviran,da,ne,320300.0,05.08.2026
+72005624,Solina,57.0,Prizemlje,2.0,,Dobro stanje,ne,da,276.100 KM,25.08.2026
+78038826,Brčanska Malta,60.0,9.0,2.0,2013.0,Nov,da,ne,335400.0,29.06.2026
+74713129,Centar,34.0,10.0,1.0,1983.0,Nenamješten,da,ne,213100.0,01.04.2026
+74215625,dragodol,43.0,,2.0,1980 do 1989,Useljivo,ne,ne,175 100,25.03.2026
+70495349,Slavinovići,50.0,1.0,2.0,1985.0,Potrebna renovacija,ne,ne,182500.0,15.08.2026
+70621391,SJENJAK,52.0,Prizemlje,2.0,1996.0,Useljivo,da,ne,294000.0,22.05.2026
+73983794,Centar,60.0,2.0,3.0,1980-1989,Potrebna renovacija,da,da,254400.0,22.08.2026
+76791807,Stupine,78.0,Prizemlje,3.0,,Potrebna renovacija,da,da,250000.0,29.03.2026
+77480519,Stupine,55.0,6.0,2.0,2023.0,Renoviran,da,ne,263400.0,16.04.2026
+77867866,Bukinje,36.0,5.0,1.0,1996.0,Useljivo,da,da,91800.0,06.09.2026
+73663721,Slavinovići,41.0,5.0,2.0,,Useljivo,da,ne,135700.0,19.06.2026
+72653855,Stupine,50m2,4.0,2.0,,Nov,da,da,258600.0,09.04.2026
+73269194,Sjenjak,55.0,5.0,3.0,,Potrebna renovacija,ne,da,150900.0,23.06.2026
+77906487, Sjenjak ,121.0,2.0,5.0,1968.0,Useljivo,da,da,"713,500",26.03.2026
+70667053,Zlokovac,66.0,Prizemlje,2.5,2008.0,Nenamješten,ne,ne,250000.0,26.03.2026
+76901185,Mejdan - Tuzla,56.0,2.0,2.0,1986.0,Useljivo,ne,ne,278800.0,29.03.2026
+70336099,Brčanska Malta,69.0,1.0,3.0,1994.0,Renoviran,da,da,345100.0,24.06.2026
+76917488,Kreka,44.0,10.0,1.5,1989.0,Useljivo,da,ne,209200.0,14.08.2026
+76766523,Šićki Brod,66.0,1.0,3.0,,Potrebna renovacija,da,da,1,25.05.2026
+78778580,šićki brod,34.0,6.0,1.0,,Dobro stanje,da,ne,76600.0,22.05.2026
+71900451,Centar - Tuzla,27.0,,1.0,2022.0,Potrebna renovacija,da,ne,117700.0,24.07.2026
+77417163,Mejdan,37.0,,1.5,,Dobro stanje,ne,da,204400.0,01.09.2026
+79000002,Gornja Tuzla - Tuzla,68.0,8.0,3.0,,Useljivo,da,ne,221100.0,05.05.2026
+78092190,Simin Han,48.0,9.0,3.0,,Namješten,ne,da,186900.0,27.03.2026
+75942726,Simin Han,25.0,2.0,1.0,,Nenamješten,ne,ne,59.400,02.04.2026
+72768032,Slavinovići,76.0,2.0,2.5,1985.0,Namješten,ne,ne,329600.0,01.05.2026
+72059024,Centar,31.0,10.0,1.0,1992.0,Nenamješten,da,da,130700.0,02.08.2026
+72585721,Šićki Brod,52.0,7.0,2.0,1997.0,Renoviran,da,da,154500.0,09.09.2026
+75840979,Kreka,50.0,5.0,2.0,2017.0,Dobro stanje,da,ne,249100.0,23.08.2026
+76684545,Slavinovići - Tuzla,34.0,8.0,1.0,,Namješten,da,da,141900.0,21.04.2026
+75812469,Mejdan,32.0,7.0,1.0,,Renoviran,da,da,181000.0,08.09.2026
+72631324,Brčanska Malta,61.0,2.0,2.5,,Potrebna renovacija,da,ne,246400.0,03.07.2026
+70649467,Simin Han,37.0,,1.5,,Potrebna renovacija,da,ne,83600.0,16.05.2026
+70660149,Brčanska Malta,103.0,8.0,4.0,2006.0,Nov,da,ne,513000.0,06.09.2026
+74964174,Centar,59.0,10.0,2.5,2006.0,Renoviran,da,ne,260500.0,05.08.2026
+79000000,Kreka,72.0,9.0,2.0,2002.0,Potrebna renovacija,da,ne,244800.0,12.07.2026
+75671093,Solina,86.0,9.0,3.0,1990.0,Renoviran,da,ne,436700.0,12.09.2026
+71453376,Dragodol,35m2,4.0,1.0,,Nov,ne,ne,187600.0,02.06.2026
+78118814,CENTAR,73.0,7.0,3.0,,Renoviran,da,ne,"390,900",02.05.2026
+70843448,Centar,79.0,10.0,3.0,1974.0,Nenamješten,da,ne,448 900,13.08.2026
+79119875,Šićki Brod,75.0,3.0,2.5,1983.0,Potrebna renovacija,da,da,174800.0,18.05.2026
+70901369,Brčanska Malta,57.0,8.0,2.0,1991.0,Useljivo,da,ne,241300.0,15.09.2026
+70405877,Sjenjak,48.0,4.0,2.0,,Namješten,ne,ne,215300.0,05.07.2026
+74630808,Slavinovići,33.0,,1.0,,Renoviran,da,da,207500.0,25.05.2026
+79479538, Zlokovac ,59.0,9.0,2.0,1980.0,Potrebna renovacija,da,ne,152100.0,01.05.2026
+71253539,Slavinovići,50.0,Prizemlje,3.0,2015.0,Namješten,da,da,241900.0,08.08.2026
+73779623,Kreka,46m2,3.0,1.5,1988.0,Namješten,da,da,235000.0,31.07.2026
+79000001,Gornja Tuzla,32.0,4.0,1.0,1998.0,Useljivo,da,da,98100.0,23.08.2026
+75193138,Slavinovići,62.0,10.0,2.0,2003.0,Nov,da,ne,290500.0,12.05.2026
+79473197,Sjenjak,38.0,10.0,1.0,,Useljivo,da,da,153400.0,17.06.2026
+70482758,Centar,79.0,3.0,3.0,,Nov,da,ne,536900.0,10.09.2026
+79000005,gornja tuzla,112.0,5.0,5.0,,Potrebna renovacija,da,ne,305900.0,16.09.2026
+71817295,Centar - Tuzla,49.0,0.0,2.0,1976.0,Dobro stanje,da,ne,284.400 KM,25.06.2026
+75780171,Sjenjak,128.0,2.0,5.0,2003.0,Renoviran,da,ne,694400.0,04.07.2026
+75277009,Zlokovac,89.0,Prizemlje,3.0,,Potrebna renovacija,da,ne,211700.0,02.04.2026
+79139244,Mejdan,78.0,2.0,2.5,,Potrebna renovacija,ne,da,313800.0,30.06.2026
+72596574, Dragodol ,43.0,6.0,1.5,,Renoviran,da,da,190900.0,08.09.2026
+72948844,Centar,49.0,6.0,2.0,1980.0,Renoviran,ne,da,324 500,07.09.2026
+75335645,Slavinovići,72.0,5.0,3.0,1968.0,Dobro stanje,da,da,368100.0,14.06.2026
+77199267,Slavinovići,29.0,10.0,1.0,1966.0,Namješten,da,da,158200.0,26.08.2026
+76403320,Kreka,50.0,4.0,2.0,2009.0,Dobro stanje,ne,da,226300.0,30.08.2026
+75401418, Kreka ,66.0,10.0,3.0,1992.0,Nov,da,ne,297000.0,25.06.2026
+79529755,Šićki Brod,41.0,4.0,1.0,2017.0,Dobro stanje,da,ne,128200.0,24.08.2026
+79000008,Miladije - Tuzla,47.0,0.0,2.0,,Namješten,da,ne,223400.0,01.06.2026
+76950633,Solina,53.0,2.0,2.0,,Potrebna renovacija,da,da,188500.0,19.07.2026
+77985257,Zlokovac,126.0,4.0,5.0,2013.0,Useljivo,da,da,638000.0,04.06.2026
+70218777,Centar,48.0,6.0,2.0,,Potrebna renovacija,ne,da,198.700 KM,04.08.2026
+75640717,Mejdan,38.0,8.0,1.0,2003.0,Nenamješten,ne,ne,185800.0,11.04.2026
+72407530,Centar,63.0,2.0,3.0,,Dobro stanje,ne,ne,344000.0,29.07.2026
+71460391,Stupine,76.0,10.0,3.0,2014.0,Useljivo,da,da,1,21.06.2026
+72954877,Kreka,75.0,1.0,2.5,,Potrebna renovacija,da,da,266900.0,17.04.2026
+76811882,Zlokovac,64.0,3.0,2.0,1975.0,Useljivo,da,da,282800.0,03.07.2026
+73386955,slavinovići,39.0,2.0,1.0,1967.0,Useljivo,da,da,167700.0,18.04.2026
+77173267,Centar,28.0,5.0,1.0,1990-1999,Useljivo,ne,da,174400.0,19.08.2026
+72336532,Brčanska Malta,66m2,,3.0,2010 do 2019,Namješten,da,da,386200.0,07.05.2026
+76600896,Slavinovići,63.0,Prizemlje,2.5,,Useljivo,da,ne,301600.0,06.09.2026
+70563299,Solina,65m2,8.0,3.0,,Useljivo,da,ne,213 800,20.07.2026
+71185604,Mejdan,59.0,5.0,2.0,1850,Nenamješten,ne,da,288500.0,26.04.2026
+75688337,Centar,99.0,2.0,4.0,1983.0,Useljivo,da,ne,501700.0,23.03.2026
+75863883,Mejdan,83.0,1.0,3.0,,Nenamješten,da,ne,456.300 KM,09.07.2026
+77278808,Bukinje,61.0,9.0,2.0,1987.0,Renoviran,da,da,258900.0,16.06.2026
+75999745,Centar,64.0,3.0,2.5,1972.0,Potrebna renovacija,ne,ne,227200.0,10.04.2026
+79734057,Brčanska Malta,64.0,7.0,2.0,,Renoviran,da,ne,"419,800",22.08.2026
+79000004,Centar,51.0,8.0,2.0,,Useljivo,ne,da,268300.0,11.04.2026
+78624782,Bukinje,74.0,3.0,3.0,1990.0,Namješten,ne,ne,212700.0,14.05.2026
+75449016,Sjenjak,61m2,9.0,3.0,,Nov,da,ne,377900.0,27.06.2026
+79699317,Stupine,37.0,0.0,1.0,,Potrebna renovacija,da,ne,129400.0,09.09.2026
+70043636,Bukinje,156m2,6.0,5.0,2025.0,Dobro stanje,da,ne,636 800,14.05.2026
+75221413,Centar,56.0,9.0,3.0,2023.0,Nov,da,ne,381900.0,23.05.2026
+75642314,Centar,54.0,1.0,2.5,1966.0,Renoviran,da,ne,425100.0,20.07.2026
+79645811,simin han,86.0,10.0,3.0,,Nov,da,ne,212800.0,09.07.2026
+70302099,Kreka,45.0,6.0,2.0,2010-2019,Useljivo,ne,ne,200800.0,11.05.2026
+73634954,SLAVINOVIĆI,79.0,,3.0,2000.0,Namješten,da,da,435.300,11.07.2026
+70581368,Brčanska Malta,154.0,5.0,5.0,1972.0,Dobro stanje,da,ne,647500.0,28.06.2026
+71288773,Mejdan,59.0,8.0,2.0,1985.0,Nov,da,da,"345,000",03.08.2026
+70688274,Centar,108.0,9.0,5.0,2021.0,Useljivo,da,ne,609.500 KM,16.04.2026
+77257632,Bukinje,51.0,1.0,2.0,1965.0,Useljivo,ne,da,164800.0,09.04.2026
+75031648,Slavinovići,54,4,2.0,1980 do 1989,Namješten,da,da,225000.0,13.03.2026
+77131736,Irac - Tuzla,69.0,6.0,2.5,,Nov,da,ne,295.100,02.07.2026
+72378353,Dragodol - Tuzla,44.0,Prizemlje,1.5,2004.0,Useljivo,da,ne,131900.0,08.04.2026
+71803537,CENTAR,60.0,0.0,2.0,1979.0,Useljivo,da,ne,249300.0,25.08.2026
+78300371,Centar,44.0,,2.0,,Dobro stanje,da,ne,298400.0,09.04.2026
+72176285,Slavinovići - Tuzla,42.0,6.0,1.0,1991.0,Renoviran,da,ne,184500.0,18.04.2026
+75568323,Centar,60.0,5.0,2.0,,Nenamješten,da,ne,339400.0,20.05.2026
+71634292,Centar,70.0,,3.0,1993.0,Renoviran,ne,da,457900.0,04.05.2026
+79918942,Centar,37.0,0.0,1.5,,Dobro stanje,da,ne,216900.0,03.09.2026
+72015516,Simin Han,151.0,8.0,5.0,1989.0,Namješten,da,ne,390000.0,23.04.2026
+79860296,Stupine,70.0,9.0,3.0,,Useljivo,da,da,331 800,08.07.2026
+76390271,Slavinovići,45.0,7.0,1.5,,Renoviran,ne,ne,238 500,18.07.2026
+74084776,Brčanska Malta,58.0,3.0,3.0,2015.0,Dobro stanje,ne,da,256300.0,06.07.2026
+73025170,Dragodol,53.0,3.0,3.0,1970.0,Potrebna renovacija,da,da,151 000,30.05.2026
+79000012,Gornja Tuzla,65.0,10.0,2.0,1988.0,Namješten,da,ne,197300.0,14.06.2026
+73704596,Sjenjak - Tuzla,47.0,,1.5,1974.0,Dobro stanje,ne,ne,217800.0,07.04.2026
+71619415,Centar,49.0,5.0,2.0,,Potrebna renovacija,ne,ne,187000.0,02.09.2026
+73191324,Brčanska Malta,43.0,2.0,1.5,2024.0,Nov,da,ne,245900.0,27.05.2026
+79000017,stupine,104.0,0.0,4.0,,Namješten,da,da,"531,100",21.06.2026
+78072294,Kreka,40.0,8.0,1.0,1974.0,Useljivo,da,ne,"144,500",15.04.2026
+72259519,Slavinovići,55.0,2.0,2.0,,Potrebna renovacija,da,da,206900.0,10.07.2026
+73763767,Centar,39.0,6.0,1.0,1978.0,Dobro stanje,da,da,219700.0,10.04.2026
+71085757,Stupine,50.0,3.0,2.0,1966.0,Namješten,ne,da,210800.0,22.07.2026
+75283264,Kreka,77.0,1.0,2.5,,Potrebna renovacija,ne,ne,348.000 KM,05.05.2026
+72099684,Kreka,66.0,1.0,2.0,2023.0,Namješten,da,ne,276600.0,04.05.2026
+75482677,Šićki Brod,124.0,10.0,5.0,2016.0,Namješten,da,da,446800.0,14.05.2026
+73084314,Bukinje,42.0,Prizemlje,1.0,,Useljivo,da,da,106100.0,09.08.2026
+76046721,Centar,94.0,5.0,4.0,,Renoviran,da,ne,423000.0,21.06.2026
+72287393,Dragodol,71.0,5.0,2.0,1967.0,Potrebna renovacija,da,da,248300.0,15.07.2026
+79355138,Slavinovići,48.0,1.0,1.0,,Useljivo,da,ne,243700.0,08.06.2026
+79000022, Slavinovići ,81.0,5.0,4.0,1998.0,Useljivo,da,ne,427300.0,13.06.2026
+77737001,Stupine,80.0,9.0,3.0,2020.0,Useljivo,da,ne,333600.0,24.05.2026
+77040322,Slavinovići,36.0,10.0,1.0,,Renoviran,da,da,201000.0,12.07.2026
+75985595, Centar ,90.0,0.0,4.0,1986.0,Namješten,da,da,561400.0,22.08.2026
+77412284,Brčanska Malta,44.0,5.0,2.0,,Renoviran,da,ne,"185,100",16.04.2026
+73427136,Slavinovići,101.0,7.0,5.0,1990-1999,Dobro stanje,da,ne,499400.0,14.06.2026
+73826532,Centar,117.0,6.0,5.0,1966.0,Useljivo,da,ne,555800.0,17.04.2026
+71531742,Miladije,49.0,3.0,2.0,,Useljivo,da,ne,254800.0,27.06.2026
+79000023,Centar,102.0,9.0,4.0,2012.0,Renoviran,da,ne,491900.0,19.07.2026
+70725606,Bukinje,69.0,8.0,3.0,,Dobro stanje,ne,ne,248800.0,24.03.2026
+77805251,Brčanska Malta,71.0,2.0,3.0,2021.0,Nenamješten,ne,da,354900.0,21.05.2026
+77580210,Zlokovac,125.0,7.0,5.0,,Namješten,da,ne,567900.0,24.04.2026
+76115435,Gornja Tuzla - Tuzla,68.0,8.0,3.0,,Useljivo,da,ne,221100.0,05.05.2026
+72444785,Centar,55.0,4.0,2.0,,Useljivo,da,ne,303400.0,10.07.2026
+71096558,Simin Han,97.0,9.0,5.0,,Renoviran,ne,ne,"402,300",18.04.2026
+70362223,Slavinovići,59.0,4.0,2.5,1990 do 1999,Useljivo,da,ne,224200.0,08.08.2026
+75842738,Stupine,67.0,2.0,2.0,1999.0,Nenamješten,ne,ne,369700.0,22.04.2026
+72719480,Slavinovići,62.0,5.0,2.0,1988.0,Nov,da,ne,440100.0,21.05.2026
+75512900,Centar - Tuzla,36.0,4.0,1.0,2013.0,Nov,da,da,282300.0,04.09.2026
+77647566,Simin Han,52.0,3.0,1.5,2021.0,Renoviran,da,da,210500.0,05.09.2026
+75192915,Stupine,76.0,,3.0,,Renoviran,da,ne,437 200,04.04.2026
+77694075,Solina,33.0,,1.0,,Useljivo,ne,da,124.700 KM,14.08.2026
+71633675, Zlokovac ,69.0,3.0,2.5,1965.0,Renoviran,da,da,277.400 KM,02.08.2026
+74209116,Bukinje,73.0,2.0,3.0,1985.0,Useljivo,da,da,215900.0,08.05.2026
+77960284,brčanska malta,87.0,2.0,3.0,2010-2019,Nenamješten,da,ne,362000.0,11.09.2026
+74188595,Stupine,,8.0,3.0,,Renoviran,da,da,364100.0,22.05.2026
+76738910,Mejdan,36.0,Prizemlje,1.0,1995.0,Renoviran,da,ne,207 700,04.08.2026
+70903588,Centar,126.0,3.0,5.0,,Useljivo,da,da,610200.0,19.07.2026
+74393500,Brčanska Malta,78.0,8.0,3.0,,Dobro stanje,da,ne,338300.0,18.08.2026
+72296560,Mejdan,82.0,10.0,4.0,2012.0,Nenamješten,da,da,432900.0,17.08.2026
+77360056,Mejdan,33.0,2.0,1.0,1990.0,Renoviran,da,ne,205.100,19.06.2026
+72086453, Stupine ,107.0,3.0,5.0,2008.0,Namješten,da,ne,660700.0,27.04.2026
+73304593,Kreka,99.0,5.0,4.0,1990-1999,Useljivo,da,da,436500.0,03.08.2026
+76720513,Sjenjak,57.0,Prizemlje,2.0,2022.0,Namješten,da,ne,292.600,20.07.2026
+73554887,Stupine,69.0,2.0,3.0,1984.0,Nov,da,ne,465 000,09.07.2026
+74086007,Simin Han,86.0,1.0,4.0,,Useljivo,da,ne,204100.0,03.09.2026
+74924628,gornja tuzla,112.0,5.0,5.0,,Potrebna renovacija,da,ne,305900.0,16.09.2026
+70162304,Miladije - Tuzla,112.0,4.0,5.0,1992.0,Renoviran,da,da,779900.0,14.08.2026
+73698677,Centar,83.0,4.0,3.0,2018.0,Namješten,da,ne,629000.0,18.07.2026
+72968684,Zlokovac,,4.0,1.0,,Useljivo,da,da,121900.0,25.06.2026
+74620879,Zlokovac,4,10.0,2.5,,Nov,ne,da,313700.0,20.05.2026
+77598993,Centar,94.0,9.0,4.0,,Potrebna renovacija,ne,ne,357600.0,03.05.2026
+72252973,Simin Han,52.0,5.0,1.5,2012.0,Useljivo,da,ne,157100.0,30.03.2026
+79000015,Solina,46.0,10.0,1.5,1992.0,Dobro stanje,ne,ne,179.000 KM,25.08.2026
+72670082,Simin Han,84.0,8.0,3.0,,Nenamješten,da,ne,233300.0,23.06.2026
+71011919,Dragodol,66.0,10.0,3.0,1988.0,Useljivo,da,da,262800.0,10.07.2026
+79290243,Stupine,55.0,10.0,2.0,,Namješten,da,ne,307700.0,21.04.2026
+78929823,Slavinovići,71,2,3.0,,Nenamješten,da,da,312000.0,19.08.2026
+79500001,,,,,,,,,,01.09.2026
+77432230,Solina,74m2,1.0,3.0,1984.0,Nenamješten,ne,ne,230700.0,04.08.2026
+79525109,Šićki Brod,66.0,5.0,2.5,1969.0,Dobro stanje,da,ne,192.900 KM,27.07.2026
+71867461,Stupine,39.0,7.0,1.0,1975.0,Renoviran,da,ne,"214,400",11.06.2026
+79000006,Centar,54.0,Prizemlje,1.5,1996.0,Nov,da,ne,365 600,27.03.2026
+77174775,Centar,29.0,,1.0,1990-1999,Useljivo,ne,da,153800.0,15.07.2026
+76837005,Sjenjak,75.0,1.0,3.0,2022.0,Dobro stanje,da,ne,376900.0,21.08.2026
+74337789,Gornja Tuzla,78.0,7.0,2.5,,Nov,da,da,254700.0,10.09.2026
+72280698,Bukinje,79.0,4.0,3.0,2020-2029,Namješten,ne,da,275200.0,18.06.2026
+71612924,Irac,76.0,5.0,3.0,1992.0,Potrebna renovacija,da,ne,306300.0,08.08.2026
+75619408,Irac,38.0,4.0,1.0,,Renoviran,da,ne,168000.0,21.08.2026
+72748770,Mejdan,122.0,10.0,4.0,1967.0,Useljivo,ne,ne,519200.0,15.06.2026
+71516636,Slavinovići,118.0,5.0,5.0,,Dobro stanje,ne,ne,495000.0,13.08.2026
+76628641, Brčanska Malta ,75.0,4.0,3.0,1972.0,Nenamješten,da,da,371800.0,17.06.2026
+74965648,Kreka,124.0,7.0,5.0,1999.0,Potrebna renovacija,da,da,511600.0,03.06.2026
+78272337,Stupine,84.0,9.0,3.0,,Potrebna renovacija,da,ne,293400.0,23.05.2026
+71744621,Stupine,40.0,6.0,2.0,,Renoviran,da,da,245100.0,18.04.2026
+77456844,Mejdan,100.0,3.0,4.0,,Nenamješten,ne,ne,455900.0,28.05.2026
+79000020,Slavinovići,128.0,10.0,5.0,1997.0,Nov,ne,ne,799300.0,22.07.2026
+77647706,Kreka,61.0,,2.0,2011.0,Useljivo,da,ne,293900.0,29.08.2026
+79900650,Slavinovići,36.0,8.0,1.0,,Renoviran,da,ne,195.600 KM,12.04.2026
+76918469,Centar,116.0,8.0,5.0,,Useljivo,ne,ne,695300.0,07.09.2026
+78494352,Mejdan,40.0,1.0,1.0,,Renoviran,da,ne,208400.0,16.05.2026
+74683204,Kreka,79.0,1.0,2.5,1969.0,Renoviran,da,ne,459100.0,09.06.2026
+77629029,Stupine,66.0,2.0,3.0,1979.0,Namješten,da,ne,308800.0,27.04.2026
+75539333,Dragodol,27.0,10.0,1.0,2004.0,Useljivo,da,da,102100.0,23.07.2026
+70262014,Gornja Tuzla,77.0,1.0,3.0,,Renoviran,da,ne,219600.0,15.05.2026
+72573046,Bukinje,36.0,1.0,1.0,2024.0,Nov,da,ne,156600.0,22.03.2026
+70255318,Irac,95.0,3.0,4.0,2003.0,Renoviran,da,da,407 900,16.06.2026
+70056593,Centar,,2.0,1.0,,Nenamješten,ne,da,239 000,24.07.2026
+71997622,Sjenjak,22.0,3.0,1.0,2017.0,Renoviran,ne,da,144100.0,09.07.2026
+79956105,Sjenjak,103.0,1.0,5.0,,Useljivo,da,da,480100.0,06.04.2026
+74325155,bukinje,30.0,4.0,1.0,,Potrebna renovacija,ne,da,84500.0,23.03.2026
+77610990,Kreka,52.0,3.0,2.0,,Useljivo,da,ne,290100.0,07.05.2026
+75425440,Solina,28.0,6.0,1.0,,Nov,da,ne,169700.0,28.04.2026
+71293402,Simin Han,102.0,8.0,5.0,1970.0,Renoviran,da,ne,321900.0,03.08.2026
+72889083,Centar,81.0,9.0,3.0,,Useljivo,ne,da,412900.0,05.08.2026
+73281434,Solina,56.0,7.0,2.0,1986.0,Nov,da,ne,298200.0,02.05.2026
+75427296,Slavinovići,30.0,4.0,1.0,,Nov,ne,ne,141900.0,09.08.2026
+77339362,Stupine,34.0,5.0,1.0,1981.0,Renoviran,da,ne,193 700,21.03.2026
+72543684,Miladije - Tuzla,47.0,0.0,2.0,,Namješten,da,ne,223400.0,17.06.2026
+73147121,Stupine,58.0,3.0,2.0,2006.0,Dobro stanje,ne,ne,283500.0,31.08.2026
+77696875,Centar,62.0,,3.0,1986.0,Useljivo,da,ne,301400.0,10.09.2026
+77887462,Sjenjak,39.0,9.0,1.0,,Nenamješten,da,da,183000.0,23.06.2026
+73437100,Šićki Brod,51.0,7.0,1.5,2008.0,Useljivo,da,da,167900.0,16.09.2026
+72711378,Slavinovići,81.0,Prizemlje,3.0,1986.0,Namješten,ne,ne,360400.0,02.09.2026
+74813753,Bukinje,88.0,7.0,3.0,2011.0,Nenamješten,da,da,299800.0,18.07.2026
+76065320,Stupine,42.0,10.0,1.0,1979.0,Dobro stanje,da,ne,183500.0,08.08.2026
+75897142,Kreka,70m2,3.0,3.0,1983.0,Nov,da,ne,410100.0,04.07.2026
+75189303,Dragodol,88.0,5.0,4.0,1974.0,Dobro stanje,da,da,"349,100",01.08.2026
+70409469,Stupine,57.0,,2.0,2020-2029,Nenamješten,da,ne,204900.0,26.07.2026
+76587589,Mejdan,51.0,2.0,1.5,2001.0,Renoviran,da,ne,298300.0,03.06.2026
+71153264,Slavinovići,62.0,4.0,2.0,1977.0,Namješten,ne,da,224500.0,08.09.2026
+75569352,Centar,70.0,,2.0,1992.0,Dobro stanje,ne,da,380800.0,19.08.2026
+78351608,Solina,56.0,3.0,2.0,1971.0,Useljivo,ne,ne,200 700,01.09.2026
+70384718, Mejdan ,69.0,5.0,2.0,,Useljivo,da,ne,307900.0,07.09.2026
+71741981,Sjenjak,75.0,,3.0,1984.0,Renoviran,da,da,427400.0,01.05.2026
+70639725,Kreka,30.0,1.0,1.0,2021.0,Nenamješten,da,ne,151.900,22.06.2026
+74368025,Dragodol,49.0,5.0,2.0,,Useljivo,da,ne,164300.0,04.09.2026
+73488606,Solina,40.0,,1.0,,Useljivo,da,da,194600.0,07.07.2026
+73307357,Gornja Tuzla,74.0,2.0,3.0,1980 do 1989,Potrebna renovacija,da,ne,"176,900",06.05.2026
+75387497,Zlokovac,68.0,4.0,2.5,1990.0,Useljivo,da,ne,252200.0,09.08.2026
+70603308,mejdan,73.0,6.0,3.0,1968.0,Nenamješten,da,ne,334100.0,11.05.2026
+74861582,Centar,43.0,6.0,1.5,1968.0,Nenamješten,da,ne,256600.0,14.05.2026
+74528675,MEJDAN,38.0,7.0,1.0,,Nov,ne,ne,259500.0,10.09.2026
+77197824,Bukinje,73.0,3.0,2.5,2022.0,Nov,ne,ne,307800.0,21.08.2026
+70337110,Kreka,109.0,1.0,3.0,2002.0,Potrebna renovacija,da,da,464700.0,15.09.2026
+79948370,SOLINA,36.0,Prizemlje,1.0,1967.0,Potrebna renovacija,da,da,121.800,21.03.2026
+70592048,Kreka,53.0,8.0,2.0,,Renoviran,da,ne,260.100,10.05.2026
+73523787,Bukinje,74.0,,3.0,,Dobro stanje,da,ne,317300.0,23.04.2026
+76560373,gornja tuzla,78.0,10.0,3.0,1983.0,Namješten,da,ne,160500.0,26.04.2026
+70692255, Centar ,44.0,10.0,2.0,,Useljivo,ne,da,234900.0,27.08.2026
+70570983,Šićki Brod,56.0,8.0,3.0,,Nenamješten,da,da,196300.0,21.08.2026
+71363698,Centar,93.0,,5.0,,Useljivo,da,da,425900.0,16.05.2026
+70705203,Slavinovići,68.0,4.0,2.0,1988.0,Dobro stanje,da,da,363 600,26.06.2026
+73733835,Irac,40.0,4.0,2.0,,Nov,da,da,238100.0,19.08.2026
+77323190,Slavinovići,84.0,9.0,3.0,,Dobro stanje,da,ne,362900.0,12.07.2026
+75911437,Slavinovići,35.0,5.0,1.0,1972.0,Useljivo,da,da,145 700,02.07.2026
+79970689,Zlokovac,41.0,9.0,1.0,2003.0,Nov,da,ne,193500.0,02.07.2026
+78456426,Slavinovići,128.0,10.0,5.0,1997.0,Nov,ne,ne,799300.0,09.09.2026
+79886037,Dragodol,41.0,10.0,1.0,,Nov,da,ne,187 900,19.04.2026
+77627336,Šićki Brod,83.0,1.0,3.0,2000 do 2009,Potrebna renovacija,da,da,243600.0,04.05.2026
+75132265,Simin Han,83.0,4.0,3.0,,Useljivo,ne,ne,235200.0,14.05.2026
+76753444,Bukinje,57.0,6.0,2.5,,Potrebna renovacija,da,ne,146600.0,01.09.2026
+79000025,Brčanska Malta,66m2,,3.0,2010 do 2019,Namješten,da,da,386200.0,24.05.2026
+79209559,Sjenjak,47.0,1.0,2.0,2009.0,Nov,ne,ne,308100.0,21.03.2026
+79000009,Stupine,55.0,10.0,2.0,,Namješten,da,ne,307700.0,23.06.2026
+76845513,Miladije,62.0,2.0,2.0,2000.0,Nenamješten,ne,da,202700.0,24.08.2026
+75784359,STUPINE,62.0,1.0,3.0,1969.0,Nenamješten,da,ne,333.300 KM,23.08.2026
+75503037,Brčanska Malta,83.0,1.0,4.0,2013.0,Useljivo,da,ne,329400.0,23.07.2026
+77678438,Sjenjak,74.0,2.0,3.0,2006.0,Potrebna renovacija,da,ne,312200.0,23.06.2026
+73340938,Simin Han,76.0,1.0,3.0,1989.0,Nenamješten,da,da,250200.0,11.09.2026
+73449970,Miladije,38.0,2.0,1.5,1993.0,Useljivo,da,da,237900.0,28.07.2026
+79839922,Simin Han,62.0,5.0,2.5,,Potrebna renovacija,da,ne,"135,400",08.04.2026
+77336034,Irac,146.0,1.0,5.0,,Nov,da,ne,636300.0,25.07.2026
+77488261,Zlokovac,58.0,3.0,2.5,,Renoviran,da,da,273.900 KM,13.09.2026
+78270079,Centar,91.0,Prizemlje,4.0,1987.0,Potrebna renovacija,da,ne,332300.0,30.07.2026
+78070032,Sjenjak,39.0,8.0,2.0,1980.0,Renoviran,ne,ne,151.000,07.04.2026
+74437530,Dragodol,38.0,6.0,1.0,2018.0,Potrebna renovacija,ne,da,140000.0,26.04.2026
+78150447,Kreka,52.0,6.0,1.5,,Dobro stanje,da,ne,224800.0,23.07.2026
+72451481,Dragodol,83.0,3.0,3.0,,Nenamješten,ne,ne,329100.0,08.09.2026
+74936720,Slavinovići,50.0,0.0,2.0,2000.0,Namješten,da,ne,177700.0,13.06.2026
+71751851,Bukinje,77.0,45,3.0,,Renoviran,da,da,351.800 KM,10.09.2026
+74349745,Šićki Brod,71.0,7.0,3.0,,Renoviran,ne,ne,299700.0,02.07.2026
+75511582,Centar,46.0,1.0,2.0,1970-1979,Renoviran,da,da,333 500,17.09.2026
+74564038,Simin Han,39.0,4.0,1.0,,Nenamješten,ne,ne,65.200,27.06.2026
+75733334,Stupine,54.0,2.0,2.5,1985.0,Nov,da,da,288.900,16.09.2026
+71729944,stupine,104.0,0.0,4.0,,Namješten,da,da,"531,100",21.06.2026
+76824892,Slavinovići,58.0,9.0,2.0,,Dobro stanje,da,ne,344200.0,03.08.2026
+76263627,Zlokovac,53.0,1.0,1.5,1972.0,Namješten,ne,ne,160900.0,12.05.2026
+70858862,Kreka,81.0,10.0,3.0,1999.0,Namješten,da,ne,324700.0,12.05.2026
+77162911,Stupine,84.0,2.0,3.0,2006.0,Useljivo,da,ne,452800.0,19.06.2026
+79312361,KREKA,43.0,7.0,2.5,1996.0,Dobro stanje,ne,ne,134700.0,23.08.2026
+72406219,Mejdan,61.0,7.0,2.5,,Nov,da,da,482600.0,31.03.2026
+79592091,Centar,60.0,6.0,2.0,,Nov,da,da,404600.0,10.04.2026
+72386424,Slavinovići,36.0,8.0,1.5,,Nenamješten,ne,ne,154 800,09.09.2026
+71188942,Šićki Brod,37.0,8.0,2.0,,Renoviran,ne,ne,110400.0,13.06.2026
+75167457,Solina,87.0,7.0,3.0,,Nenamješten,da,ne,312100.0,07.09.2026
+75461394,Bukinje,124.0,6.0,5.0,1994.0,Nenamješten,da,da,400800.0,10.08.2026
+76951508,Stupine,66.78,2,3.0,,Nov,da,ne,310000.0,29.05.2026
+76509438,Brčanska Malta,43.0,1.0,1.0,,Useljivo,ne,ne,181000.0,27.05.2026
+71534921,Stupine,74.0,8.0,2.5,2014.0,Dobro stanje,da,ne,462600.0,30.07.2026
+70475136,Zlokovac,66.0,1.0,3.0,,Useljivo,da,ne,295000.0,04.08.2026
+79580118,Bukinje - Tuzla,62.0,Prizemlje,2.0,2011.0,Useljivo,da,ne,240900.0,14.06.2026
+79000016,Simin Han,97.0,9.0,5.0,,Renoviran,ne,ne,"402,300",19.06.2026
+77143543,Šićki Brod,35.0,1.0,1.0,1998.0,Potrebna renovacija,ne,ne,77500.0,07.05.2026
+71256638,Simin Han,93.0,3.0,4.0,,Renoviran,da,ne,329500.0,14.07.2026
+78582618,Kreka - Tuzla,65.0,8.0,2.0,,Namješten,ne,da,329200.0,04.04.2026
+77788192,Bukinje,31.0,3.0,1.0,2000 do 2009,Dobro stanje,da,ne,95700.0,16.08.2026
+74379039,Simin Han,,8.0,4.0,,Potrebna renovacija,da,da,278.400,09.06.2026
+74000665,Mejdan,49.0,5.0,2.0,1996.0,Renoviran,ne,ne,259600.0,11.09.2026
+75861093,Mejdan,146.0,2.0,5.0,,Namješten,da,ne,775500.0,27.04.2026
+71194484,Centar,59.0,7.0,2.0,2022.0,Renoviran,da,ne,363.100 KM,13.04.2026
+71379975,Mejdan,124.0,Prizemlje,5.0,,Renoviran,ne,ne,714 700,01.04.2026
+71167036,Slavinovići,37.0,7.0,1.0,,Useljivo,da,ne,153600.0,02.09.2026
+74489712,Gornja Tuzla,65.0,10.0,2.0,1988.0,Namješten,da,ne,197300.0,14.06.2026
+77516629,Centar,42.0,6.0,1.0,,Potrebna renovacija,da,ne,197700.0,12.04.2026
+78473115,Solina,59.0,7.0,2.0,1997.0,Namješten,da,ne,276400.0,07.07.2026
+71907609,Mejdan,61.0,9.0,3.0,,Useljivo,da,ne,"333,400",13.08.2026
+75751697,Šićki Brod,52.0,7.0,1.5,,Renoviran,da,da,169900.0,24.06.2026
+77081574,Zlokovac,34.0,3.0,1.0,,Potrebna renovacija,da,ne,107400.0,18.08.2026
+76264065,Slavinovići,91.0,,3.0,,Dobro stanje,da,ne,456400.0,02.08.2026
+79000011,Simin Han,79.0,3.0,3.0,2017.0,Potrebna renovacija,ne,ne,198900.0,01.08.2026
+75863600,Miladije,87.0,Prizemlje,3.0,1969.0,Dobro stanje,da,ne,538000.0,23.05.2026
+77535044,Centar,58.0,3.0,2.0,2000 do 2009,Potrebna renovacija,ne,da,211900.0,24.06.2026
+75614893,Kreka,78.0,Prizemlje,3.0,1983.0,Potrebna renovacija,da,da,379200.0,07.09.2026
+76953709,Centar,40.0,4.0,1.0,,Nov,ne,ne,273600.0,17.04.2026
+76684435,Mejdan,59.0,3.0,2.0,,Renoviran,da,ne,332500.0,07.07.2026
+77042950,Centar,84.0,4.0,3.0,1997.0,Nov,da,ne,576200.0,23.03.2026
+72973020,Mejdan,43.0,,1.0,,Useljivo,da,da,"199,200",15.05.2026
+70242293,Centar,60.0,2.0,2.5,1970.0,Renoviran,da,ne,304.500,05.07.2026
+79249623,Sjenjak,51.0,,2.0,2015.0,Nenamješten,da,ne,240500.0,25.07.2026
+70260174,Šićki Brod,81.0,1.0,3.0,,Dobro stanje,ne,da,272000.0,11.07.2026
+77417623,Slavinovići,48.0,4.0,2.0,1985.0,Namješten,da,ne,270.000,15.06.2026
+71501295,Slavinovići,89.0,8.0,4.0,1991.0,Namješten,da,ne,481500.0,07.07.2026
+73959126,Irac,77.0,7.0,3.0,2015.0,Renoviran,da,ne,367 900,10.06.2026
+77936725,Stupine,54.0,0.0,2.0,,Renoviran,ne,ne,254 800,05.04.2026
+75485034,Gornja Tuzla,147.0,1.0,5.0,,Nov,da,da,526200.0,08.08.2026
+73827831,Sjenjak,88.0,2.0,3.0,1970.0,Nov,ne,da,477600.0,01.06.2026
+75026792,Slavinovići,98.0,10.0,4.0,,Potrebna renovacija,da,ne,321100.0,12.07.2026
+74976476,Sjenjak,85.0,8.0,3.0,2009.0,Useljivo,ne,da,377700.0,03.06.2026
+71002873,Solina,72.0,2.0,3.0,2001.0,Useljivo,da,da,272300.0,07.05.2026
+73723069,Brčanska Malta,65.0,2.0,3.0,2017.0,Renoviran,da,ne,318200.0,18.06.2026
+75509087,Irac,94.0,6.0,5.0,,Dobro stanje,da,ne,346300.0,05.05.2026
+74068557,Simin Han,56.0,8.0,2.0,,Useljivo,da,ne,132600.0,12.07.2026
+77081844,Mejdan,63.0,,3.0,2019.0,Dobro stanje,da,da,434000.0,19.08.2026
+75670870,Brčanska Malta,55.0,9.0,2.5,,Namješten,ne,ne,250900.0,11.04.2026
+71751853,Stupine,67.0,7.0,2.5,,Useljivo,ne,ne,323 400,02.04.2026
+76243621,Stupine,70.0,6.0,3.0,2009.0,Renoviran,da,da,361800.0,25.05.2026
+79589835,Šićki Brod,56.0,6.0,2.0,,Renoviran,da,ne,156600.0,24.06.2026
+73555422,Stupine,79.0,2.0,3.0,1992.0,Dobro stanje,ne,ne,324.000 KM,28.03.2026
+76355412,Slavinovići,27.0,1.0,1.0,2025.0,Dobro stanje,da,da,157300.0,05.06.2026
+74073723, Slavinovići ,81.0,5.0,4.0,1998.0,Useljivo,da,ne,427300.0,25.04.2026
+74823033,Mejdan,65.0,10.0,3.0,2000.0,Potrebna renovacija,da,da,214900.0,04.07.2026
+72860472,Stupine,91.0,8.0,4.0,,Useljivo,ne,da,414800.0,17.06.2026
+76434621,Sjenjak,54.0,9.0,2.0,,Nov,ne,ne,271300.0,07.04.2026
+74595471,Irac,54.0,1.0,2.0,,Potrebna renovacija,da,ne,169700.0,25.05.2026
+74575894,Stupine,71.0,7.0,3.0,2020 do 2029,Nov,da,ne,421900.0,21.04.2026
+73424064,Centar,90.0,,4.0,,Renoviran,da,ne,822700.0,07.09.2026
+76525872,Slavinovići,90.0,7.0,3.0,2020.0,Renoviran,da,ne,600300.0,21.06.2026
+76302354,Mejdan,50.0,0.0,3.0,2014.0,Useljivo,da,ne,283700.0,16.05.2026
+70850245,Centar,4,1.0,1.5,1968.0,Useljivo,da,ne,211.600 KM,22.03.2026
+76312858,Solina,65.0,3.0,2.5,,Useljivo,ne,ne,234400.0,02.08.2026
+77872555,Solina,103.0,5.0,5.0,1978.0,Dobro stanje,da,ne,374100.0,16.04.2026
+76753055,Šićki Brod,70.0,4.0,2.5,,Useljivo,da,da,184500.0,02.04.2026
+72539997,Sjenjak,94.0,0.0,5.0,2019.0,Useljivo,da,ne,479000.0,08.08.2026
+70085817,Irac,62.0,3.0,2.0,2024.0,Renoviran,da,da,326500.0,15.08.2026
+70009924,Solina - Tuzla,99.0,7.0,4.0,2011.0,Potrebna renovacija,ne,ne,289300.0,25.05.2026
+73220340,Kreka,72.0,9.0,2.0,2002.0,Potrebna renovacija,da,ne,244800.0,12.07.2026
+79537727,Simin Han,47.0,Prizemlje,1.0,,Nenamješten,da,ne,136500.0,21.06.2026
+72163556,Kreka,70.0,0.0,2.0,1987.0,Namješten,da,ne,333700.0,26.07.2026
+70898207,Dragodol,46.0,Prizemlje,2.0,,Useljivo,da,da,182200.0,12.05.2026
+71282741,Mejdan,100.0,0.0,4.0,2022.0,Potrebna renovacija,da,da,344300.0,15.04.2026
+72117721,Kreka,54.0,2.0,2.0,,Nenamješten,ne,da,274500.0,27.07.2026
+73626858,Kreka,58.0,,2.5,,Nenamješten,da,da,261700.0,01.06.2026
+72695198,Simin Han,98.0,10.0,4.0,2024.0,Dobro stanje,da,ne,307100.0,01.06.2026
+79000014,Centar,92.0,1.0,3.0,,Nov,ne,ne,702400.0,21.05.2026
+74493907,Brčanska Malta,43.0,7.0,2.0,1994.0,Useljivo,da,ne,184500.0,18.07.2026
+78675977,Bukinje,58.0,Prizemlje,2.5,1974.0,Potrebna renovacija,da,ne,119500.0,11.05.2026
+78743341,Solina,52.0,1.0,2.0,1972.0,Namješten,ne,da,238.300,08.05.2026
+72239175,Brčanska Malta,42.0,7.0,1.5,2000.0,Nov,ne,da,192400.0,01.04.2026
+71439086,Šićki Brod,90.0,4.0,3.0,1984.0,Dobro stanje,ne,ne,256100.0,31.07.2026
+71696969,Mejdan,66.0,Prizemlje,3.0,1982.0,Useljivo,da,da,292700.0,10.08.2026
+71246102,Gornja Tuzla,60.0,2.0,2.0,,Useljivo,da,ne,152200.0,14.09.2026
+78690917,Mejdan,74.0,Prizemlje,2.0,,Useljivo,ne,ne,452200.0,31.08.2026
+72364554,Bukinje,38.0,3.0,1.0,,Dobro stanje,da,ne,108 300,09.05.2026
+74408649,Mejdan,58.0,2.0,2.0,,Renoviran,ne,ne,332900.0,20.07.2026
+78606303,Bukinje,34.0,8.0,1.0,,Useljivo,da,da,107100.0,31.03.2026
+73914919,Kreka,119.0,7.0,4.0,,Nov,da,ne,465400.0,08.05.2026
+77740328,Stupine,63.0,2.0,3.0,2012.0,Potrebna renovacija,ne,da,313.300,05.09.2026
+75440399,Slavinovići,41.0,7.0,1.0,,Namješten,da,da,187000.0,14.04.2026
+75165744,Centar,78.0,2.0,3.0,,Useljivo,da,ne,523400.0,04.08.2026
+71449141,Stupine,57.0,10.0,2.0,,Useljivo,da,da,249700.0,01.07.2026
+78058168,Centar,60.0,3.0,2.5,2016.0,Nov,da,da,"386,700",08.06.2026
+71041346,Dragodol,87.0,8.0,3.0,1972.0,Dobro stanje,da,ne,375.400,22.05.2026
+74467962,Dragodol,79.0,0.0,3.0,,Potrebna renovacija,da,ne,215000.0,04.07.2026
+79881398,Kreka,48.0,3.0,1.5,2007.0,Dobro stanje,da,da,290 700,10.09.2026
+76162840,Dragodol,85.0,1.0,3.0,2013.0,Nenamješten,ne,ne,305500.0,07.04.2026
+76429983,Sjenjak,41.0,45,1.0,1987.0,Potrebna renovacija,ne,ne,174300.0,27.05.2026
+78221952,Simin Han,31.0,9.0,1.0,,Namješten,da,ne,92500.0,13.04.2026
+71730414,Sjenjak,71.0,4.0,2.5,1993.0,Renoviran,da,ne,370300.0,05.07.2026
+74676524,Kreka,74.0,3.0,3.0,2003.0,Renoviran,da,ne,453000.0,18.08.2026
+73442577,Sjenjak,81m2,2.0,3.0,2025.0,Potrebna renovacija,da,da,383.000,16.08.2026
+70911028,Stupine,36.0,10.0,1.0,2021.0,Nenamješten,da,da,172600.0,14.09.2026
+72805241,Gornja Tuzla - Tuzla,64.0,9.0,2.0,,Dobro stanje,da,ne,204600.0,22.03.2026
+75570719,Stupine,30m2,2.0,1.0,1985.0,Dobro stanje,ne,ne,"155,900",30.03.2026
+74742425,Brčanska Malta,65.0,2.0,2.0,1970.0,Potrebna renovacija,da,ne,140300.0,02.06.2026
+70878349,Irac,40.0,5.0,2.0,1996.0,Potrebna renovacija,da,da,114800.0,09.06.2026
+74457613,Stupine,58.0,8.0,2.0,1993.0,Nenamješten,da,ne,313100.0,29.07.2026
+77415502,Slavinovići,,7.0,4.0,2018.0,Useljivo,da,ne,459000.0,30.07.2026
+79643669,Mejdan,30.0,0.0,1.0,,Useljivo,ne,da,128900.0,27.08.2026
+71024910,Zlokovac,99.2,Prizemlje,3.0,2024,Nov,,da,371.901,22.09.2025
+72729336,Dragodol,55.0,6.0,3.0,2002.0,Namješten,da,da,217.600 KM,13.07.2026
+74380267,Slavinovići,58.0,1.0,2.0,2007.0,Nov,da,da,310500.0,20.07.2026
+79976030,Slavinovići,54.0,7.0,2.0,1965.0,Renoviran,da,ne,280100.0,28.06.2026
+71030179,Kreka - Tuzla,36.0,10.0,1.5,,Nov,ne,ne,185800.0,02.06.2026
+71327793,Kreka,67.0,8.0,3.0,,Renoviran,da,ne,"332,300",23.07.2026
+73878416,Solina,33.0,Prizemlje,1.0,,Dobro stanje,da,ne,109.000 KM,04.05.2026
+78568603,Simin Han,89.0,3.0,5.0,2005.0,Useljivo,ne,ne,325000.0,15.06.2026
+79238744,Slavinovići,109.0,,4.0,1994.0,Renoviran,da,da,526400.0,29.03.2026
+75157301,Centar,51.0,8.0,2.0,,Useljivo,ne,da,268300.0,30.04.2026
+72713881,Centar,83.0,8.0,3.0,,Renoviran,ne,ne,637000.0,16.09.2026
+79000021,Solina,33.0,Prizemlje,1.0,,Dobro stanje,da,ne,109.000 KM,30.03.2026
+76508121,Slavinovići,65.0,3.0,3.0,1984.0,Potrebna renovacija,da,da,211700.0,12.08.2026
+74248515,Simin Han,58.0,,2.0,,Namješten,ne,ne,114900.0,27.06.2026
+77433998,Centar,,9.0,1.0,,Nenamješten,da,ne,164100.0,13.06.2026
+73210622,DRAGODOL,63.0,6.0,2.5,1996.0,Renoviran,ne,da,315100.0,12.05.2026
+78567660,Solina,61.0,8.0,3.0,,Potrebna renovacija,da,da,208900.0,12.04.2026
+71122862,Mejdan,68.0,8.0,3.0,2023.0,Potrebna renovacija,ne,da,239600.0,29.04.2026
+73985524,Dragodol,58.0,1.0,2.5,2010 do 2019,Potrebna renovacija,da,ne,151500.0,14.09.2026
+70251013,Centar,25.0,,1.0,,Dobro stanje,da,da,144900.0,18.06.2026
+71368212,Centar,49.0,4.0,1.5,2008.0,Namješten,ne,da,280.300,13.06.2026
+78767107,Zlokovac,56.0,7.0,2.0,1995.0,Useljivo,da,da,223900.0,25.07.2026
+79482987,Brčanska Malta,66,12,2.0,1970-1979,Dobro stanje,da,da,243000.0,10.09.2026
+74172903, Centar ,78.0,4.0,3.0,2025.0,Potrebna renovacija,da,ne,337900.0,02.07.2026
+76062205,Gornja Tuzla,98.0,10.0,5.0,,Dobro stanje,da,ne,315800.0,02.05.2026
+78586434, Šićki Brod ,107.0,9.0,5.0,2014.0,Useljivo,da,ne,240100.0,26.07.2026
+76840932, Slavinovići ,57.0,8.0,2.5,1993.0,Nov,ne,ne,325500.0,21.05.2026
+75115737,Stupine,,9.0,1.0,1975.0,Nov,da,da,177600.0,26.04.2026
+78292695,Mejdan,60.0,3.0,3.0,,Potrebna renovacija,da,da,241600.0,22.08.2026
+73886487,Kreka,90m2,3.0,3.0,,Dobro stanje,da,ne,360400.0,05.08.2026
+78747726,Irac,81m2,2,3.0,,Renoviran,ne,ne,269000.0,11.08.2026
+75389417,Centar,72.0,8.0,3.0,2015.0,Useljivo,da,ne,365.400,09.06.2026
+72027904,Šićki Brod,38.0,1.0,1.0,1965.0,Useljivo,ne,ne,110100.0,08.04.2026
+79000018,Centar,67.0,,2.5,,Useljivo,da,ne,252100.0,14.07.2026
+79000024,Bukinje,36.0,5.0,1.0,1996.0,Useljivo,da,da,91800.0,06.09.2026
+79419916,Simin Han - Tuzla,67.0,6.0,3.0,1995.0,Potrebna renovacija,da,ne,176200.0,30.05.2026
+78288050,Stupine,68.0,4.0,2.0,1989.0,Nenamješten,da,ne,268 100,06.09.2026
+71729439,Brčanska Malta,90.0,1.0,3.0,2019.0,Renoviran,da,da,"413,000",07.09.2026
+73017933,Simin Han,118.0,Prizemlje,5.0,,Potrebna renovacija,da,da,301900.0,29.07.2026
+79788730, Solina ,71.0,5.0,3.0,2006.0,Useljivo,ne,ne,266000.0,29.08.2026
+74775058, Kreka ,54.0,4.0,2.0,1981.0,Dobro stanje,da,ne,313800.0,11.04.2026
+71829157,centar,58.0,5.0,2.0,2001.0,Nov,da,da,412100.0,06.08.2026
+73298597,Kreka,84.0,7.0,3.0,1997.0,Nenamješten,da,ne,364300.0,15.09.2026
+71337448,Solina,58.0,8.0,1.5,1979.0,Dobro stanje,ne,ne,213900.0,03.09.2026
+70541955, Sjenjak ,,0.0,4.0,1984.0,Potrebna renovacija,da,ne,241200.0,09.07.2026
+79691762,Solina,59.0,3.0,3.0,1972.0,Nenamješten,ne,ne,210100.0,02.05.2026
+75251556,Mejdan,38.0,4.0,1.0,,Namješten,da,da,188300.0,24.08.2026
+79667638,Centar,80.0,8.0,3.0,,Namješten,da,da,420000.0,27.04.2026
+73973338,Sjenjak,67.0,5.0,2.5,2005.0,Renoviran,da,ne,358.400,01.08.2026
+70572907,Mejdan,59.0,5.0,2.0,1977.0,Potrebna renovacija,da,da,247400.0,13.06.2026
+71676995,Slavinovići,76.0,5.0,3.0,,Nov,da,ne,483500.0,06.06.2026
+76144274,Centar,67.0,,2.5,,Useljivo,da,ne,252100.0,01.09.2026
+78056965,Stupine,82.0,10.0,3.0,,Nov,ne,da,503100.0,10.04.2026
+76556940,Centar,60.0,2.0,2.0,1990.0,Renoviran,da,ne,390200.0,28.04.2026
+70871664,Gornja Tuzla,61.0,0.0,2.0,1986.0,Nov,da,da,216900.0,17.09.2026
+77223592,Simin Han,,4.0,2.5,1989.0,Namješten,da,da,217700.0,01.05.2026
+74849602,Solina,120.0,8.0,5.0,,Namješten,da,da,421500.0,22.05.2026
+77259615,Kreka,64.0,7.0,3.0,1979.0,Potrebna renovacija,da,ne,162500.0,04.05.2026
+75632276,Mejdan,76.0,8.0,3.0,,Renoviran,ne,ne,437.700,13.08.2026
+72416995,Sjenjak,39.0,5.0,1.5,2009.0,Useljivo,ne,da,"164,400",28.04.2026
+75595644,Slavinovići,69.0,6.0,2.0,1992.0,Renoviran,da,ne,306600.0,30.05.2026
+74506000,Centar,38.0,3.0,1.0,1973.0,Useljivo,ne,da,208.600,19.04.2026
+70991569,Dragodol,61.0,3.0,2.0,1978.0,Renoviran,da,ne,315800.0,09.04.2026
+78595307,Centar,71.0,Prizemlje,2.5,,Renoviran,ne,da,455400.0,09.05.2026
+74367173,Stupine,52.0,6.0,2.0,2003.0,Renoviran,da,da,283900.0,17.07.2026
+74861638,Dragodol,54,2,2.0,,Nenamješten,da,ne,189000.0,16.09.2026
+75488090,Mejdan,66.0,3.0,3.0,1998.0,Renoviran,da,ne,372400.0,11.06.2026
+74091145,Gornja Tuzla,39.0,10.0,1.0,,Dobro stanje,da,ne,102300.0,23.04.2026
+72489206, Kreka ,54.0,7.0,2.0,,Nov,ne,ne,238100.0,30.05.2026
+74968208,Mejdan,69.0,3.0,3.0,1998.0,Namješten,da,ne,356900.0,05.07.2026
+79696701,Mejdan,98.0,9.0,4.0,,Potrebna renovacija,da,da,398 000,18.05.2026
+79496029,Dragodol,,,1.0,1980.0,Potrebna renovacija,da,da,104300.0,30.06.2026
+77120519,Sjenjak,72.0,2.0,2.5,1977.0,Potrebna renovacija,da,ne,259600.0,22.06.2026
+70378661,Sjenjak,28.0,1.0,1.0,2023.0,Nenamješten,da,ne,136200.0,30.05.2026
+72150757,Mejdan,45.0,Prizemlje,1.5,1993.0,Useljivo,da,ne,244000.0,14.08.2026
+71262807,Mejdan,44.0,4.0,2.0,,Useljivo,da,da,260000.0,06.08.2026
+79100767,Irac,40.0,4.0,2.5,,Renoviran,da,ne,161.100,24.04.2026
+71091439,Zlokovac,70.0,1.0,2.0,,Namješten,da,ne,304900.0,20.05.2026
+78754813,Stupine - Tuzla,71.0,Prizemlje,2.0,1988.0,Nenamješten,da,ne,260500.0,18.04.2026
+72201182,Brčanska Malta,33.0,8.0,1.0,,Renoviran,da,da,207.200 KM,06.04.2026
+77045425,Centar,39.0,6.0,1.0,,Dobro stanje,da,da,195900.0,15.04.2026
+78757459,Mejdan,32.0,3.0,1.0,2000 do 2009,Useljivo,ne,da,147600.0,14.04.2026
+77331321,Zlokovac,55.0,1.0,2.0,,Nenamješten,da,ne,272400.0,22.08.2026
+79295988,Gornja Tuzla,114.0,10.0,5.0,1997.0,Useljivo,ne,ne,267 100,18.08.2026
+70862687,Šićki Brod,38m2,1.0,1.0,2020 do 2029,Useljivo,da,ne,123000.0,04.05.2026
+70287842,Kreka,57.0,4.0,2.0,1970 do 1979,Dobro stanje,da,ne,303700.0,16.06.2026
+76458394,Mejdan,56.0,8.0,2.0,,Potrebna renovacija,ne,da,252500.0,21.08.2026
+76790514,Kreka,81.0,0.0,3.0,2001.0,Useljivo,da,ne,218.000 KM,09.06.2026
+75545847,Sjenjak,41.0,2.0,1.0,2021.0,Dobro stanje,ne,ne,187500.0,01.09.2026
+79993899,Bukinje,75.0,3.0,2.5,1974.0,Potrebna renovacija,ne,da,167600.0,30.04.2026
+75981678,Simin Han,132.0,2.0,5.0,1994.0,Nov,da,ne,508.300 KM,27.07.2026
+78690536,Stupine,68.0,9.0,3.0,,Renoviran,da,ne,323400.0,15.06.2026
+74670183,Gornja Tuzla,44.0,7.0,2.0,1970-1979,Nenamješten,ne,da,91 700,10.05.2026
+79796530,Sjenjak,72.0,3.0,3.0,2007.0,Useljivo,da,ne,376200000.0,23.05.2026
+78362450, Stupine ,80.0,2.0,4.0,1981.0,Useljivo,da,da,414000.0,25.03.2026
+79000007,Kreka,52.0,3.0,2.0,,Useljivo,da,ne,290100.0,01.04.2026
+77382312,Centar,92.0,1.0,3.0,,Nov,ne,ne,702400.0,21.05.2026
+72742385,Brčanska Malta,53.0,5.0,2.0,2009.0,Useljivo,da,ne,216800.0,16.09.2026
+79500002,,,,,,,,,,01.09.2026
+79000003,slavinovići,39.0,2.0,1.0,1967.0,Useljivo,da,da,167700.0,18.04.2026
+70123026,Zlokovac,81.0,2.0,3.0,,Renoviran,da,ne,350800.0,11.06.2026
+79029890,Centar,51.0,4.0,2.0,2025.0,Nenamješten,da,ne,317 800,15.06.2026
+77271321,Centar,41.0,6.0,2.0,1965.0,Namješten,da,ne,214.800,08.05.2026
+72296523,simin han,109.0,2.0,4.0,1974.0,Potrebna renovacija,da,da,213.100,01.06.2026
+78481722,Dragodol,42.0,10.0,2.0,1984.0,Nov,ne,ne,154000.0,04.07.2026
+78707332,Irac,64.0,,2.0,2018.0,Useljivo,ne,da,266.800 KM,01.04.2026
+73769989,Gornja Tuzla,64.0,,2.5,1998.0,Nenamješten,ne,da,175400.0,23.07.2026
+75792541,Centar - Tuzla,109.0,4.0,4.0,1974.0,Dobro stanje,ne,ne,758100.0,30.06.2026
+78663414,Gornja Tuzla,90.0,3.0,2.5,,Renoviran,da,da,276100.0,25.07.2026
+79000010,Stupine,66.0,2.0,3.0,1979.0,Namješten,da,ne,308800.0,27.04.2026
+70328099,Centar,81.0,,3.0,,Useljivo,da,da,451500.0,21.04.2026
+74373428, Dragodol ,99.0,1.0,4.0,1989.0,Nov,da,da,447800.0,23.05.2026
+74166095,Centar,36.0,8.0,1.0,1968.0,Dobro stanje,da,da,211900.0,07.08.2026
+72506088,Kreka,37.0,10.0,1.0,,Nenamješten,da,ne,168200.0,23.05.2026
+77766483,Centar,55.0,5.0,1.5,2008.0,Useljivo,da,ne,269200.0,26.05.2026
+76431674,Šićki Brod,33.0,1.0,1.5,1978.0,Nov,da,ne,124600.0,16.07.2026
+78427318,Centar,72.0,8.0,2.0,2010.0,Potrebna renovacija,da,ne,330500.0,22.07.2026
+76952147,Zlokovac,63.0,8.0,3.0,,Renoviran,da,ne,289600.0,07.05.2026
+75617210,Centar,102.0,9.0,4.0,2012.0,Renoviran,da,ne,491900.0,15.06.2026
+72464758,Slavinovići,55.0,Prizemlje,2.0,1995.0,Potrebna renovacija,ne,da,174400.0,04.08.2026
+77104900,Irac,44.0,10.0,3.0,1991.0,Nenamješten,ne,ne,182700.0,09.04.2026
+77584342,Bukinje,77.0,,2.0,,Namješten,da,ne,"315,400",09.09.2026
+71581218,Brčanska Malta,45.0,2.0,1.5,,Useljivo,da,ne,156200.0,23.07.2026
+70572319,Centar,74.0,1.0,3.0,1968.0,Renoviran,ne,da,332000.0,04.08.2026
+77869242,Šićki Brod,76.0,9.0,3.0,1980 do 1989,Dobro stanje,da,da,227700.0,26.04.2026
+72343666,Sjenjak,38.0,10.0,1.0,2016.0,Dobro stanje,da,ne,171900.0,18.04.2026
+71870856,Sjenjak,72.0,10.0,3.0,,Namješten,da,da,344800.0,28.08.2026
+76382292,Sjenjak,74.0,6.0,3.0,1990.0,Useljivo,da,da,386000.0,06.04.2026
+78302976,Kreka,57.0,4.0,2.0,,Nov,ne,ne,26410000.0,02.04.2026
+78461814,Centar,116.0,6.0,4.0,1850,Potrebna renovacija,da,da,566700.0,15.09.2026
+74251614,Dragodol,30.0,10.0,1.0,,Useljivo,da,da,102 900,29.03.2026
+76530900,Solina,32.0,0.0,1.0,1978.0,Potrebna renovacija,da,da,108000.0,27.08.2026
+79336669, Zlokovac ,27.0,7.0,1.5,1980.0,Namješten,da,ne,120500.0,26.07.2026
+77216163,Simin Han,47.0,7.0,2.0,,Useljivo,ne,ne,107700.0,30.07.2026
+71648107,Mejdan,42.0,2.0,1.5,,Namješten,da,ne,237100.0,23.06.2026
+78507433,Zlokovac,59m2,4.0,2.0,2020-2029,Useljivo,da,ne,209600.0,21.06.2026
+78165686,Sjenjak,54.0,10.0,2.0,,Nov,da,da,275500.0,18.04.2026
+72259289,Mejdan,70.0,9.0,3.0,,Namješten,ne,da,330100.0,24.06.2026
+73654963,Solina,44.0,1.0,1.5,1985.0,Potrebna renovacija,ne,da,144000.0,09.07.2026
+70032457,Brčanska Malta,80.0,8.0,2.5,1990-1999,Nenamješten,ne,ne,311400.0,30.08.2026
+76779717,Stupine,76.0,,2.5,,Namješten,ne,da,384700.0,27.07.2026
+78681547,ZLOKOVAC,50.0,5.0,2.0,,Dobro stanje,da,da,213000.0,24.04.2026
+79000013,Simin Han,135.0,5.0,5.0,2017.0,Nenamješten,da,ne,478700.0,20.05.2026
+73880535, Mejdan ,106.0,3.0,4.0,1976.0,Useljivo,da,ne,576800.0,03.05.2026
+72043656,Sjenjak,34.0,7.0,1.0,2000-2009,Dobro stanje,da,da,200700.0,04.09.2026
+73599050,Stupine,96.0,Prizemlje,3.0,1969.0,Potrebna renovacija,da,ne,376700.0,01.08.2026
+73035826,Sjenjak,40.0,6.0,1.0,,Namješten,da,ne,213900.0,07.08.2026
+77278432,Stupine,73.0,8.0,2.5,,Nenamješten,ne,ne,400900.0,17.05.2026
+75936819, Centar ,95m2,6.0,3.0,,Nenamješten,da,ne,466600.0,06.07.2026
+75883193,Simin Han,121.0,10.0,5.0,,Namješten,ne,ne,430000.0,16.04.2026
+76415612,Centar,71.0,10.0,3.0,,Nenamješten,da,ne,376 900,08.07.2026
+79241245,Kreka,42.0,10.0,2.0,1971.0,Useljivo,da,da,92000.0,23.04.2026
+77478361,Sjenjak,88.0,3.0,3.0,1981.0,Potrebna renovacija,da,ne,327.100 KM,08.07.2026
+74244371,Bukinje,39.0,6.0,1.5,,Namješten,da,ne,126500.0,21.04.2026
+70968024,Centar,68.0,2.0,2.5,,Dobro stanje,da,da,400200.0,24.04.2026
+74457307,Dragodol,102.0,,4.0,2002.0,Useljivo,da,da,413500.0,05.09.2026
+72664632,Centar,72.0,3.0,3.0,,Namješten,da,ne,425400.0,03.08.2026
+76645796,Simin Han,79.0,3.0,3.0,2017.0,Potrebna renovacija,ne,ne,198900.0,17.09.2026
+70613213,Gornja Tuzla,145.0,Prizemlje,5.0,,Dobro stanje,da,da,402300.0,10.04.2026
+76940449,Bukinje,90.0,1.0,3.0,1986.0,Renoviran,da,da,323600.0,03.06.2026
+75842278,Gornja Tuzla,32.0,4.0,1.0,1998.0,Useljivo,da,da,98100.0,12.07.2026
+73767807,Bukinje,59.0,9.0,2.0,2010-2019,Useljivo,ne,ne,199300.0,18.07.2026
+73273526,šićki brod,43.0,10.0,2.0,2018.0,Namješten,da,ne,131000.0,25.05.2026
+76501249,Miladije,36.0,7.0,1.0,,Namješten,da,ne,170700.0,24.08.2026
+76355602,Stupine,42.0,8.0,1.5,,Potrebna renovacija,da,ne,143500.0,29.08.2026
+77124812,Centar,32.0,1.0,1.0,1979.0,Namješten,ne,ne,175000.0,03.05.2026
+77467895,Dragodol,99.0,5.0,4.0,1984.0,Dobro stanje,da,da,425200.0,07.05.2026
+71018322,Slavinovići,,3.0,2.0,2000 do 2009,Potrebna renovacija,da,da,159.300 KM,02.06.2026
+70358427,Mejdan,84.0,3.0,3.0,,Dobro stanje,ne,ne,436800.0,23.08.2026
+75064187,Simin Han,46.0,2.0,1.5,,Useljivo,ne,da,136.400,20.05.2026
+74982791,Gornja Tuzla,44.0,7.0,1.0,1998.0,Potrebna renovacija,da,da,98.500 KM,31.03.2026
+72854699,Kreka,35.0,0.0,1.0,2016.0,Renoviran,da,ne,188800.0,04.06.2026
+79761282,Stupine,31.0,,1.5,2023.0,Renoviran,da,ne,202600.0,11.05.2026
+70519618, Kreka ,48.0,3.0,1.5,,Nov,da,da,330500.0,29.08.2026
+72899349,Solina,48.0,Prizemlje,3.0,1978.0,Potrebna renovacija,ne,ne,145.800 KM,21.08.2026
+75150570,Stupine,47.0,3.0,1.0,2015.0,Namješten,da,ne,249700.0,28.05.2026
+79024180,Kreka,94.0,2.0,3.0,2007.0,Renoviran,da,da,579700.0,30.06.2026
+76366702,Dragodol,133.0,10.0,5.0,,Potrebna renovacija,da,ne,369600.0,05.06.2026
+79600741,Sjenjak,54,5,2.0,,Renoviran,da,da,270000.0,15.09.2026
+73179844,Šićki Brod - Tuzla,52.0,6.0,2.0,1995.0,Dobro stanje,da,ne,123100.0,27.03.2026
+76806917,Solina,46.0,10.0,1.5,1992.0,Dobro stanje,ne,ne,179.000 KM,29.06.2026
+77404240,Bukinje,30.0,7.0,1.0,2023.0,Renoviran,da,ne,140100.0,29.03.2026
+78452385,Sjenjak,82.0,3.0,3.0,2017.0,Potrebna renovacija,da,da,272200.0,12.09.2026
+72574223,Centar,51.0,5.0,2.0,2009.0,Nov,da,ne,353100.0,13.06.2026
+79000019,MEJDAN,38.0,7.0,1.0,,Nov,ne,ne,259500.0,04.08.2026
+75031784,Bukinje,61.0,Prizemlje,1.5,,Potrebna renovacija,da,ne,126900.0,19.07.2026
+77606572,Sjenjak,52.0,6.0,2.0,1999.0,Potrebna renovacija,da,ne,192.000,24.06.2026
+78955637,Sjenjak,71.0,3.0,2.0,,Useljivo,da,ne,236800.0,17.08.2026
+70109347,Miladije,84.0,3.0,3.0,,Useljivo,da,ne,317200.0,08.06.2026
+72235440,Dragodol,60.0,,1.5,1965.0,Namješten,da,da,196500.0,22.07.2026
+78912775,Brčanska Malta,38.0,1.0,1.5,2004.0,Renoviran,ne,da,"203,400",11.05.2026
+71603381,Slavinovići,97.0,7.0,3.0,2001.0,Useljivo,da,da,398900.0,02.04.2026
+75250016,Stupine,67.0,1.0,2.5,1990 do 1999,Dobro stanje,ne,ne,346.800,02.04.2026
+76775630,Centar,40.0,9.0,1.0,1995.0,Dobro stanje,da,da,248.900 KM,18.07.2026
+77180622,Bukinje - Tuzla,48.0,4.0,2.0,2022.0,Nenamješten,da,da,140.000 KM,19.07.2026
+72219280,Simin Han,135.0,5.0,5.0,2017.0,Nenamješten,da,ne,478700.0,25.06.2026
+74412227,Slavinovići,83.0,5.0,4.0,2011.0,Useljivo,ne,ne,267500.0,25.03.2026
+70203684,Simin Han,56.0,7.0,2.0,2009.0,Renoviran,da,ne,203300.0,17.07.2026
+71753464,Solina,38.0,6.0,2.0,1970-1979,Dobro stanje,da,da,158500.0,19.08.2026
+74098567,Centar,72.0,3.0,3.0,2010-2019,Namješten,da,da,465.100,09.08.2026
+72624898,Sjenjak,70.0,3.0,3.0,2016.0,Useljivo,da,da,411.600,26.07.2026
+71326620,Slavinovići,,4.0,1.0,2003.0,Dobro stanje,da,ne,113000.0,31.03.2026
+70308928,Mejdan - Tuzla,30.0,3.0,1.0,1999.0,Renoviran,da,da,176500.0,05.05.2026
+73092918,Dragodol,60.0,0.0,3.0,,Renoviran,da,ne,177200.0,25.06.2026
+78014054,Zlokovac,70.0,5.0,2.0,2022.0,Potrebna renovacija,ne,ne,209 800,29.08.2026
+73715431,Centar - Tuzla,141.0,9.0,5.0,,Namješten,da,ne,606100.0,20.08.2026
+73801334,Zlokovac,45.0,5.0,1.0,1973.0,Renoviran,da,da,235600.0,19.08.2026
+72251776,Sjenjak,39.0,5.0,1.0,1989.0,Renoviran,da,ne,285600.0,11.05.2026
+79213224,Šićki Brod,132.0,10.0,5.0,1971.0,Useljivo,ne,ne,370300.0,19.05.2026
+72166334,Stupine,76.0,5.0,3.0,1970-1979,Useljivo,da,ne,424100.0,23.07.2026
+70048905,Solina,32.0,8.0,1.0,2022.0,Namješten,da,da,172400.0,01.04.2026
+72731111,Bukinje,61.0,8.0,2.0,,Useljivo,da,da,225900.0,30.07.2026
+76544287,Bukinje,52.0,7.0,2.0,1998.0,Renoviran,da,da,175600.0,26.06.2026
+79270643,Gornja Tuzla,62.0,9.0,2.0,,Namješten,da,ne,112500.0,02.05.2026
+72376583,Centar,99.0,2.0,4.0,,Useljivo,da,ne,665300.0,02.08.2026
+71057840,Brčanska Malta,71.0,2.0,3.0,,Renoviran,da,da,"448,100",13.09.2026
+73927100,Mejdan,44.0,7.0,3.0,1995.0,Dobro stanje,ne,ne,228100.0,20.07.2026
+74216616,Simin Han,106.0,4.0,5.0,,Useljivo,da,ne,239100.0,09.09.2026
+74202681,Dragodol,66.0,6.0,3.0,1965.0,Useljivo,da,ne,263900.0,18.07.2026
+79771926,Centar,80.0,9.0,3.0,,Nenamješten,da,ne,431800.0,13.04.2026
+75256164,Centar,62.0,7.0,2.0,,Dobro stanje,da,da,341000.0,08.08.2026
+75711897,Bukinje,70.0,10.0,3.0,1979.0,Useljivo,da,ne,218900.0,07.04.2026
+75178785,Simin Han,64.0,7.0,2.0,2018.0,Useljivo,ne,da,194200.0,26.04.2026
+79386483,Mejdan,130.0,5.0,5.0,,Useljivo,da,ne,631700.0,29.05.2026
+70753306,Mejdan,130.0,4.0,4.0,,Useljivo,ne,da,800700.0,03.06.2026
+77233461,Gornja Tuzla,60.0,5.0,2.0,1968.0,Namješten,da,da,161.400 KM,12.04.2026
+79492934,Dragodol,55.0,10.0,3.0,1998.0,Potrebna renovacija,da,da,142 100,27.05.2026
+71743916,Centar,55.0,10.0,2.0,1989.0,Dobro stanje,da,ne,304 700,22.04.2026
+79169564,Kreka,80.0,,3.0,2019.0,Nov,da,da,"331,900",25.08.2026
+72370620,Centar,63.0,0.0,3.0,1989.0,Useljivo,da,ne,456900.0,01.05.2026
+71590717,Mejdan,91.0,4.0,5.0,2017.0,Potrebna renovacija,da,ne,405400.0,14.05.2026
+72990364,Centar,54.0,Prizemlje,1.5,1996.0,Nov,da,ne,365 600,24.04.2026
+74346103,Irac,68.0,9.0,3.0,1990-1999,Dobro stanje,da,da,354400.0,13.04.2026
+73086782, Irac ,35.0,5.0,1.5,,Dobro stanje,da,da,123700.0,22.04.2026
+74597094,Bukinje,67.0,7.0,3.0,,Nov,ne,ne,207700.0,21.06.2026
